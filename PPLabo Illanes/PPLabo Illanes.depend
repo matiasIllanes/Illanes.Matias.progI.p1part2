@@ -1,0 +1,148 @@
+# depslib dependency file v1.0
+1653073831 source:d:\programacion 1 2022\pplabo illanes\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1653073831 d:\programacion 1 2022\pplabo illanes\color.h
+
+1652967785 source:d:\programacion 1 2022\pplabo illanes\fecha.c
+	"fecha.h"
+
+1652967801 d:\programacion 1 2022\pplabo illanes\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1652967579 d:\programacion 1 2022\pplabo illanes\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1653073831 source:d:\programacion 1 2022\pplabo illanes\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1653073831 d:\programacion 1 2022\pplabo illanes\tipo.h
+
+1652967598 source:d:\programacion 1 2022\pplabo illanes\utn.c
+	"utn.h"
+
+1653076082 source:d:\programacion 1 2022\pplabo illanes\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"trabajo.h"
+
+1653076223 d:\programacion 1 2022\pplabo illanes\bicicleta.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"utn.h"
+	"servicio.h"
+
+1653076170 source:d:\programacion 1 2022\pplabo illanes\bicicleta.c
+	"bicicleta.h"
+
+1653035313 d:\programacion 1 2022\pplabo illanes\servicio.h
+	"bicicleta.h"
+
+1653035313 source:d:\programacion 1 2022\pplabo illanes\servicio.c
+	"servicio.h"
+
+1653069117 source:d:\programacion 1 2022\pplabo illanes\trabajo.c
+	"trabajo.h"
+
+1653036936 d:\programacion 1 2022\pplabo illanes\trabajo.h
+	"bicicleta.h"
+	"fecha.h"
+	"servicio.h"
+
+1653093033 source:d:\programacion 1 2022\pplabo illanes - copy\bicicleta.c
+	"bicicleta.h"
+
+1653093963 d:\programacion 1 2022\pplabo illanes - copy\bicicleta.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+	"color.h"
+	"utn.h"
+	"servicio.h"
+	"cliente.h"
+
+1653092566 d:\programacion 1 2022\pplabo illanes - copy\tipo.h
+
+1653092566 d:\programacion 1 2022\pplabo illanes - copy\color.h
+
+1652967579 d:\programacion 1 2022\pplabo illanes - copy\utn.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1653076869 d:\programacion 1 2022\pplabo illanes - copy\servicio.h
+	"bicicleta.h"
+
+1653073831 source:d:\programacion 1 2022\pplabo illanes - copy\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1652967785 source:d:\programacion 1 2022\pplabo illanes - copy\fecha.c
+	"fecha.h"
+
+1652967801 d:\programacion 1 2022\pplabo illanes - copy\fecha.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1653094224 source:d:\programacion 1 2022\pplabo illanes - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	"bicicleta.h"
+	"trabajo.h"
+
+1653092566 d:\programacion 1 2022\pplabo illanes - copy\trabajo.h
+	"bicicleta.h"
+	"fecha.h"
+	"servicio.h"
+
+1653092518 source:d:\programacion 1 2022\pplabo illanes - copy\servicio.c
+	"servicio.h"
+
+1653094224 source:d:\programacion 1 2022\pplabo illanes - copy\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1653092518 source:d:\programacion 1 2022\pplabo illanes - copy\trabajo.c
+	"trabajo.h"
+
+1652967598 source:d:\programacion 1 2022\pplabo illanes - copy\utn.c
+	"utn.h"
+
+1653094295 source:d:\programacion 1 2022\pplabo illanes - copy\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1653093963 source:d:\programacion 1 2022\pplabo illanes - copy\informes.c
+	"informes.h"
+
+1653092566 d:\programacion 1 2022\pplabo illanes - copy\informes.h
+	"bicicleta.h"
+
+1653094295 d:\programacion 1 2022\pplabo illanes - copy\cliente.h
+
